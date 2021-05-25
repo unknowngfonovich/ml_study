@@ -1,2 +1,2 @@
 # ml_study
-notebooks while studying ml
+My notebooks while studying machine learning
